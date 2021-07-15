@@ -1,5 +1,3 @@
-
-
 **Step1 :** The screen shows a CD spectrometer with a computer attached to it. There is a drop down menu named "Secondary Structure" and three control TABS on the right named "Measure CD", "Exit Simulation" and "N2 Purge".
 
 **Step2 :** You have to power on the CD spectrometer to activate the simulator. The power switch is at the left of the spectrometer.
