@@ -32,32 +32,31 @@
 {
 "question":"4.  Electronic transition taking place at 220nm  ",  
 "answers": {
-            "a": "n - ¶–.", 
-            "b": "¶–- ¶–*.", 
+            "a": "n - ¬¶√ê.", 
+            "b": "¬¶√ê- ¬¶√ê*.", 
             "c": "Both A and B.",
 	    "d": "None of the above are correct"  
 	   },
-"correctAnswer": "c"  },
-			 
+"correctAnswer": "c"  },			 
 
 {
 "question": "5. Electronic transition taking place at 190nm  ",  
 "answers": {
-            "a": "n - ¶–*.", 
-            "b": "¶–- ¶–*.", 
+            "a": "n - ¬¶√ê*.", 
+            "b": "¬¶√ê- ¬¶√ê*.", 
             "c": "Both A and B.",
 	    "d": "None of the above"  
 	   },
 "correctAnswer": "c" },
 
 {
-"question":"6. The ¶–--> ¶–* transition shows negative peak in which of the following secondary structures ",  
+"question":"6. The ¬¶√ê--> ¬¶√ê* transition shows negative peak in which of the following secondary structures ",  
 "answers": {
             "a": "Alpha helix.", 
             "b": "Beta sheet.", 
             "c": "Random coil.",
 	    "d": "None of the above."  
             },
-"correctAnswer": "c"  },
+"correctAnswer": "c"  }
 			 
 ]
