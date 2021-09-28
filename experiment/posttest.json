@@ -32,8 +32,8 @@
 {
 "question":"4.  Electronic transition taking place at 220nm  ",  
 "answers": {
-            "a": "n - ¦Ð.", 
-            "b": "¦Ð- ¦Ð*.", 
+            "a": "n - π*.", 
+            "b": "π- π*", 
             "c": "Both A and B.",
 	    "d": "None of the above are correct"  
 	   },
@@ -42,15 +42,15 @@
 {
 "question": "5. Electronic transition taking place at 190nm  ",  
 "answers": {
-            "a": "n - ¦Ð*.", 
-            "b": "¦Ð- ¦Ð*.", 
+            "a": "n - π*.", 
+            "b": "π- π*", 
             "c": "Both A and B.",
 	    "d": "None of the above"  
 	   },
 "correctAnswer": "c" },
 
 {
-"question":"6. The ¦Ð--> ¦Ð* transition shows negative peak in which of the following secondary structures ",  
+"question":"6. The π--> π* transition shows negative peak in which of the following secondary structures ",  
 "answers": {
             "a": "Alpha helix.", 
             "b": "Beta sheet.", 

@@ -1,15 +1,15 @@
 
 **Introduction to proteins:**
 
-      **Biological Significance:**
+     **Biological Significance:**
 
 Proteins are the most predominant organic molecules in all living cells with remarkable biological significance. The structure, behaviour and unique qualities of all living beings are the consequence of the protein they contain. Proteins perform the essential and specialized functions in living cells. They are primarily responsible for the structure and strength of the body. According to their biological roles, proteins can be classified into various categories. Some proteins act as enzymes, hormones, blood clotting factors, antibodies etc while some proteins are classified as structural (e.g. collagen & keratin), contractile (e.g. actin & myosin), transport (e.g. haemoglobin & myoglobin) and regulatory proteins (e.g. G-proteins). There are also nutrient and storage proteins which are vital for the growth and survival of living cells.These are the dynamic functions of proteins. Due to their vital functions they are also known as the working horses of cell.
 
-      **Structure of proteins:**
+     **Structure of proteins:**
 
 The building block of protein molecules is called as amino acid, which occur in 20 different naturally occurring forms. A protein is a chain of amino acids linked together through peptide bonds. All proteins are made up of same set of these 20 amino acids arranged in a specific order. Various combinations of these amino acids account for a variety of proteins occurring naturally. A typical amino acid consist of a primary amino group (-NH2), a carboxyl group (-COOH), a hydrogen atom (-H) and a side-chain (-R) group attached to a central α-carbon atom (-Cα). The structure is as shown below.
 
-<img src="images/fig1.jpg/">
+<img src="images/fig1.jpg">
 
 Structure of an amino acid
 
@@ -17,11 +17,11 @@ The variation among the amino acids occurs at the R group, which is different in
 
 All of the 20 standard amino acids, except for glycine, have four different groups around the C¦Á atom and thus are optically active and chiral in nature. These can be distinguished based on the difference in rotation of the place polarised light. Only one of the forms of the isomer (L-isomer) (see [ http://en.wikipedia.org/wiki/Chirality_(chemistry)](http://en.wikipedia.org/wiki/Chirality_(chemistry)) for more details) is found in proteins.
 
-       **The peptide bond:**
+      **The peptide bond:**
 
 As discussed above, a protein is a linear sequence of amino acids linked together by peptide bonds. The peptide bond is a covalent bond between the ¦Á-amino group of one amino acid and the ¦Á-carboxyl group of another. The formation of peptide bond involves removal of water molecule and hence, amino acids are also referred to as residues. The figure below illustrates a peptide bond formation between two amino acid residues with the removal of water molecule.
 
-<img src="images/fig2.jpg/"> 
+<img src="images/fig2.jpg"> 
 
 
 **Peptide bond formation**
@@ -29,7 +29,7 @@ As discussed above, a protein is a linear sequence of amino acids linked togethe
 
 The peptide bond has partial double bond character. When two amino acids are joined by a peptide bond, they form a dipeptide.A tripeptide refers to a chain of three amino acids while tetrapeptide is a sequence of four amino acid residues and so on. Addition of further amino acids results in long chains called as oligopeptides (upto 25 amino acid residues) and polypeptides (>25 amino acid residues). The backbone conformation of a polypeptide is specified by the rotational angles about the  Cα - N bond(φ) and Cα - C (ψ) of each amino acid residues as shown below:
 
-<img src="images/fig3.jpg/">
+<img src="images/fig3.jpg">
 	  
 Torsional angles
 (Source:[http://biochem.co/page/3/](http://biochem.co/page/3/))
@@ -58,16 +58,16 @@ Not all amino acids favour the formation of the α-helix due to steric constrain
 The second common secondary structure in proteins is the β-pleated sheets. The β-sheets are composed of two different regions of stretches of at least 5 - 10 amino acids called as β-strands. They could be different polypeptide chains or in different sections of the same polypeptide chain. The planarity of the peptide bond forces the polypeptide to be pleated, with the side chains protruding above and below the sheet. The folding and alignment of these strands aside one another to form β-sheets is stabilized by H-bonding between amide hydrogen and carbonyl oxygen. Adjacent polypeptide chains in the β-sheets are either parallel or anti-parallel depending on whether they run in the same direction or in opposite directions. In parallel sheets, adjacent peptide chains proceed in the same direction (i.e. the direction of N-terminal to C-terminal ends is the same) , whereas, in anti-parallel sheets adjacent chains are aligned in opposite directions. β-sheets can be depicted as shown below.
 
 
-<img src="images/fig5.jpg/">
-<img src="images/fig6.jpg/"
+<img src="images/fig5.jpg">
+<img src="images/fig6.jpg"
 
 Beta-sheet
-(source: [http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm and http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html](http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm and http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html))
+(source: [http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm](http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm) and [http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html](http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html))
 
 
 β-pleated sheets provide strength and rigidity in many structural proteins such as silk fibroin. The ribbon depiction of β-pleated sheets is shown in the figure below.
 
-<img src="images/fig7.jpg/">
+<img src="images/fig7.jpg">
 
 Ribbon depiction of β-pleated sheets.
 
@@ -89,7 +89,7 @@ Now under excitation there may be two types of electronic transition
 1. n - π* centered around 220 nm and
 2. π - π* centered around 190 nm
 
-       	  <img src="images/fig8.jpg/">
+<img src="images/fig8.jpg">
 
 
 *Peptide bond
@@ -102,18 +102,18 @@ In a system of N non interacting chromophores if one chromophore is excited by t
 
 For example, we may have a series of amino acid Alanine (part of a protein) arranged in different forms. They may appear as α-helix, β sheet or random coils. And for each of these secondary structures we have different CD curves. The following figure shows that.
 
-<img src="images/fig9.jpg/">
+<img src="images/fig9.jpg">
 
 *CD of Poly L Lysine for different secondary structure.
 
 
       **Let us now look at CD of different secondary structures**
 
-<img src="images/fig10.jpg/">	
+<img src="images/fig10.jpg">	
 
 *CD (blue) and absorption spectra of Random Coil Electronic Transitions: p -> p*(positive at 212 nm) ; n -> p*(negative at 195 nm)
 
-<img src="images/fig11.jpg/">
+<img src="images/fig11.jpg">
 
 *CD (blue) and absorption spectra of  β Sheet Electronic Transitions: n -> p*(positive at 195 nm) ; p -> p*(negative at 218 nm)
 
