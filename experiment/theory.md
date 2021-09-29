@@ -30,7 +30,8 @@ As discussed above, a protein is a linear sequence of amino acids linked togethe
 The peptide bond has partial double bond character. When two amino acids are joined by a peptide bond, they form a dipeptide.A tripeptide refers to a chain of three amino acids while tetrapeptide is a sequence of four amino acid residues and so on. Addition of further amino acids results in long chains called as oligopeptides (upto 25 amino acid residues) and polypeptides (>25 amino acid residues). The backbone conformation of a polypeptide is specified by the rotational angles about the  Cα - N bond(φ) and Cα - C (ψ) of each amino acid residues as shown below:
 
 <img src="images/fig3.jpg">
-	  
+
+<br/>
 Torsional angles
 (Source:[http://biochem.co/page/3/](http://biochem.co/page/3/))
 
