@@ -1,11 +1,11 @@
 
 **Introduction to proteins:**
 
-     **Biological Significance:**
+     Biological Significance:
 
 Proteins are the most predominant organic molecules in all living cells with remarkable biological significance. The structure, behaviour and unique qualities of all living beings are the consequence of the protein they contain. Proteins perform the essential and specialized functions in living cells. They are primarily responsible for the structure and strength of the body. According to their biological roles, proteins can be classified into various categories. Some proteins act as enzymes, hormones, blood clotting factors, antibodies etc while some proteins are classified as structural (e.g. collagen & keratin), contractile (e.g. actin & myosin), transport (e.g. haemoglobin & myoglobin) and regulatory proteins (e.g. G-proteins). There are also nutrient and storage proteins which are vital for the growth and survival of living cells.These are the dynamic functions of proteins. Due to their vital functions they are also known as the working horses of cell.
 
-     **Structure of proteins:**
+     Structure of proteins:
 
 The building block of protein molecules is called as amino acid, which occur in 20 different naturally occurring forms. A protein is a chain of amino acids linked together through peptide bonds. All proteins are made up of same set of these 20 amino acids arranged in a specific order. Various combinations of these amino acids account for a variety of proteins occurring naturally. A typical amino acid consist of a primary amino group (-NH2), a carboxyl group (-COOH), a hydrogen atom (-H) and a side-chain (-R) group attached to a central α-carbon atom (-Cα). The structure is as shown below.
 
@@ -17,9 +17,9 @@ The variation among the amino acids occurs at the R group, which is different in
 
 All of the 20 standard amino acids, except for glycine, have four different groups around the C¦Á atom and thus are optically active and chiral in nature. These can be distinguished based on the difference in rotation of the place polarised light. Only one of the forms of the isomer (L-isomer) (see [ http://en.wikipedia.org/wiki/Chirality_(chemistry)](http://en.wikipedia.org/wiki/Chirality_(chemistry)) for more details) is found in proteins.
 
-      **The peptide bond:**
+      The peptide bond:
 
-As discussed above, a protein is a linear sequence of amino acids linked together by peptide bonds. The peptide bond is a covalent bond between the ¦Á-amino group of one amino acid and the ¦Á-carboxyl group of another. The formation of peptide bond involves removal of water molecule and hence, amino acids are also referred to as residues. The figure below illustrates a peptide bond formation between two amino acid residues with the removal of water molecule.
+As discussed above, a protein is a linear sequence of amino acids linked together by peptide bonds. The peptide bond is a covalent bond between the ¦Á-amino group of one amino acid and the α-carboxyl group of another. The formation of peptide bond involves removal of water molecule and hence, amino acids are also referred to as residues. The figure below illustrates a peptide bond formation between two amino acid residues with the removal of water molecule.
 
 <img src="images/fig2.jpg"> 
 
@@ -37,11 +37,11 @@ Torsional angles
 
 Since amino acids are chiral in nature, they can generate CD signals. In CD spectroscopy, in the far-UV spectral region of wavelengths ranging from 190-250 nm, the chromophore is the peptide bond while in the near-UV spectral region of wavelengths ranging from 250-350 nm, the chromophores are the aromatic amino acids and disulfide bonds. Signals in the region from 250-270 nm are attributable to phenylalanine residues, signals from 270-290 nm are attributable to tyrosine, and those from 280-300 nm are attributable to tryptophan. Disulfide bonds give rise to broad weak signals throughout the near-UV spectrum. The signal strength in the near-UV CD region is much weaker than that in the far-UV CD region. Near-UV CD spectra require about 1 ml of protein solution with an OD at 280 nm of 0.5 to 1 (which corresponds to 0.25 to 2 mg/ml for most proteins).
 
-      **Primary Structure of proteins** 
+      Primary Structure of proteins 
 
 The primary level of structure in a protein is the linear sequence of amino acids as joined together by peptide bonds. It refers to the number and order of the amino acids present in the protein. The convention for the designation of the order of amino acids is that the N-terminal end (i.e. the end bearing the residue with the free α-amino group) is to the left (and the number 1 amino acid) and the C-terminal end (i.e. the end with the residue containing a free α-carboxyl group) is to the right.
 
-      **Secondary structure of proteins:**
+      Secondary structure of proteins:
 
 The secondary level of structure in a protein refers to the folding of the local regions of the polypeptide chain. Secondary structure arises when various functional groups of the constituting amino acids interact and arrange themselves spatially. This causes the amino acid chain to twist and attain different configurations. The most common types of secondary structure elements are the α-helices, β-pleated sheets and random coils.
 
@@ -49,7 +49,9 @@ The α-helix is a common secondary structure encountered in many proteins (e.g. 
 
 
 <img src="images/fig4.jpg">
-    
+
+<br/>
+
 An Alpha-helix
 
 
@@ -59,7 +61,12 @@ The second common secondary structure in proteins is the β-pleated sheets. The 
 
 
 <img src="images/fig5.jpg">
+
+<br/>
+
 <img src="images/fig6.jpg"
+
+<br/>
 
 Beta-sheet
 (source: [http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm](http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm) and [http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html](http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html))
@@ -81,7 +88,7 @@ CD and Proteins:
 
 Having discussed the basic Physics behind CD spectroscopy in experiment 3 we are now in a position to understand how naturally occurring molecules like protein shows Circular Dichroism.
 
-We now know that in an optically active medium, chromophores cause differential absorption and in turn give rise to Circular Dichroism. In case of proteins, the ¦Á-carbon acts as a chiral center and hence provides an optically active medium. Proteins possess a number of chromophores (peptide bond, aromatic side chain, disulphide bond etc) which can give rise to CD signals. In the far UV region (180-250nm), which corresponds to peptide bond absorption, the CD spectrum can be analysed to give the content of regular secondary structural features such as α-helix and β-sheet. The CD spectrum in the near UV region (250-320 nm) reflects the environments of the aromatic amino acid side chains and thus gives information about the tertiary structure of the protein.
+We now know that in an optically active medium, chromophores cause differential absorption and in turn give rise to Circular Dichroism. In case of proteins, the α-carbon acts as a chiral center and hence provides an optically active medium. Proteins possess a number of chromophores (peptide bond, aromatic side chain, disulphide bond etc) which can give rise to CD signals. In the far UV region (180-250nm), which corresponds to peptide bond absorption, the CD spectrum can be analysed to give the content of regular secondary structural features such as α-helix and β-sheet. The CD spectrum in the near UV region (250-320 nm) reflects the environments of the aromatic amino acid side chains and thus gives information about the tertiary structure of the protein.
 
 To study secondary structures, amide bonds (peptide bonds) are the main source of CD spectra. Molecular Orbital Theory([http://en.wikipedia.org/wiki/Molecular_orbital_theory](http://en.wikipedia.org/wiki/Molecular_orbital_theory)) tells us that each molecule has a set of molecular orbitals and electrons of its atoms are distributed among those orbitals. For amide bond, in simplified Molecular Orbital Theory, the 2Px orbitals of the nitrogen, carbon and oxygen atoms of the amide linkage are combined to form three orthogonal linear combinations, the π+, πo, and π- bonds. These three orbitals have the plane of the peptide bond as there nodal plane. The four π electrons fill the first two molecular orbitals, the ¦Ð+ which is strongly bonding and π+ which is almost nonbonding. The remaining two electrons are non-bonding electrons on the oxygen atoms of the amide bond which are conventionally labeled the 2Py electrons. These electrons have energy which is close to that of the atomic orbitals of hydrogen.
 
@@ -107,7 +114,7 @@ For example, we may have a series of amino acid Alanine (part of a protein) arra
 *CD of Poly L Lysine for different secondary structure.
 
 
-      **Let us now look at CD of different secondary structures**
+      Let us now look at CD of different secondary structures
 
 <img src="images/fig10.jpg">	
 
@@ -119,7 +126,7 @@ For example, we may have a series of amino acid Alanine (part of a protein) arra
 
  <img src="images/fig12.jpg">
 
-*CD (blue) and absorption (dotted) spectra of ¦Á Helix Electronic Transitions: p -> p*(positive perpendicular at 192 nm); p -> p*(negative parallel at 209 nm); n -> p*(negative at 222 nm is red shifted)
+*CD (blue) and absorption (dotted) spectra of α-Helix Electronic Transitions: p -> p*(positive perpendicular at 192 nm); p -> p*(negative parallel at 209 nm); n -> p*(negative at 222 nm is red shifted)
 
 
 
