@@ -1,0 +1,62 @@
+[{
+"question": "1. In proteins the chiral center is present at: ", 
+"answers": {
+            "a":"Nitrogen of amino group.", 
+            "b":"Carbon of carboxyl group.", 
+	    "c":"Alpha carbon.", 
+            "d":"Oxygen in carbonyl group." 
+            },
+"correctAnswer": "a" 
+        },
+
+{
+"question":"2. CD signals in the far UV region(180-250nm) are helpful for secondary structure analysis due to ", 
+"answers": {
+            "a":"Peptide bond absorption.", 
+            "b":"Aromatic side chain absorption.", 
+            "c":"Disulphide bond absorption.",
+	    "d":"None of the above are correct"  
+           },
+"correctAnswer": "c"  },
+
+{
+"question": "3. CD signals in the near UV region(250-320 nm) provide tertiray structural information due to?  ",  
+"answers": {
+            "a": "Peptide bond absorption.", 
+            "b": "Aromatic side chain absorption.",
+            "c": "Disulphide bond absorption.",
+	    "d": "All of the above are correct"  
+           },
+"correctAnswer": "c"   },
+
+{
+"question":"4.  Electronic transition taking place at 220nm  ",  
+"answers": {
+            "a": "n - π*.", 
+            "b": "π- π*", 
+            "c": "Both A and B.",
+	    "d": "None of the above are correct"  
+	   },
+"correctAnswer": "c"  },			 
+
+{
+"question": "5. Electronic transition taking place at 190nm  ",  
+"answers": {
+            "a": "n - π*.", 
+            "b": "π- π*", 
+            "c": "Both A and B.",
+	    "d": "None of the above"  
+	   },
+"correctAnswer": "c" },
+
+{
+"question":"6. The π--> π* transition shows negative peak in which of the following secondary structures ",  
+"answers": {
+            "a": "Alpha helix.", 
+            "b": "Beta sheet.", 
+            "c": "Random coil.",
+	    "d": "None of the above."  
+            },
+"correctAnswer": "c"  }
+			 
+]
