@@ -65,12 +65,12 @@ The second common secondary structure in proteins is the β-pleated sheets. The 
 
 <br/>
 
-<img src="images/fig6.jpg"
+<img src="images/fig6.jpg">
 
 <br/>
 
 Beta-sheet
-(source: [http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm](http://www.chembio.uoguelph.ca/educmat/phy456/456lec01.htm) and [http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html](http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html))
+(source: [http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html](http://www.cryst.bbk.ac.uk/pps97/course/section3/sheet.html))
 
 
 β-pleated sheets provide strength and rigidity in many structural proteins such as silk fibroin. The ribbon depiction of β-pleated sheets is shown in the figure below.
@@ -91,7 +91,7 @@ Having discussed the basic Physics behind CD spectroscopy in experiment 3 we are
 
 We now know that in an optically active medium, chromophores cause differential absorption and in turn give rise to Circular Dichroism. In case of proteins, the α-carbon acts as a chiral center and hence provides an optically active medium. Proteins possess a number of chromophores (peptide bond, aromatic side chain, disulphide bond etc) which can give rise to CD signals. In the far UV region (180-250nm), which corresponds to peptide bond absorption, the CD spectrum can be analysed to give the content of regular secondary structural features such as α-helix and β-sheet. The CD spectrum in the near UV region (250-320 nm) reflects the environments of the aromatic amino acid side chains and thus gives information about the tertiary structure of the protein.
 
-To study secondary structures, amide bonds (peptide bonds) are the main source of CD spectra. Molecular Orbital Theory([http://en.wikipedia.org/wiki/Molecular_orbital_theory](http://en.wikipedia.org/wiki/Molecular_orbital_theory)) tells us that each molecule has a set of molecular orbitals and electrons of its atoms are distributed among those orbitals. For amide bond, in simplified Molecular Orbital Theory, the 2Px orbitals of the nitrogen, carbon and oxygen atoms of the amide linkage are combined to form three orthogonal linear combinations, the π+, πo, and π- bonds. These three orbitals have the plane of the peptide bond as there nodal plane. The four π electrons fill the first two molecular orbitals, the ¦Ð+ which is strongly bonding and π+ which is almost nonbonding. The remaining two electrons are non-bonding electrons on the oxygen atoms of the amide bond which are conventionally labeled the 2Py electrons. These electrons have energy which is close to that of the atomic orbitals of hydrogen.
+To study secondary structures, amide bonds (peptide bonds) are the main source of CD spectra. Molecular Orbital Theory ([http://en.wikipedia.org/wiki/Molecular_orbital_theory](http://en.wikipedia.org/wiki/Molecular_orbital_theory)) tells us that each molecule has a set of molecular orbitals and electrons of its atoms are distributed among those orbitals. For amide bond, in simplified Molecular Orbital Theory, the 2Px orbitals of the nitrogen, carbon and oxygen atoms of the amide linkage are combined to form three orthogonal linear combinations, the π+, πo, and π- bonds. These three orbitals have the plane of the peptide bond as there nodal plane. The four π electrons fill the first two molecular orbitals, the ¦Ð+ which is strongly bonding and π+ which is almost nonbonding. The remaining two electrons are non-bonding electrons on the oxygen atoms of the amide bond which are conventionally labeled the 2Py electrons. These electrons have energy which is close to that of the atomic orbitals of hydrogen.
 
 Now under excitation there may be two types of electronic transition
 1. n - π* centered around 220 nm and
