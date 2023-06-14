@@ -1,0 +1,33 @@
+[
+{
+"question":"1.  In biological reactions proteins play a role of a ______________ ? ", 
+"answers": {
+            "a":"Reactant.",
+            "b":"Product.", 
+            "c":"Catalyst.", 
+            "d":"Does not play any role." 
+            },
+"correctAnswer": "c"  },
+
+{		  
+"question": "2. Protein is a polymer. Monomeric unit of which is amino acid. Each amino acid has a chiral center. So is it possible to apply CD spectrum to study the structure of a protein? ", 
+"answers": {
+            "a":"Yes.", 
+            "b":"No.",
+            "c":"The given information is not enough. Can not conclude.", 
+            "d":"CD spectroscopy may be used for some protein not all." 
+            },
+"correctAnswer": "a"  },
+	   
+			  
+{
+"question":"3. Having known the primary structure of a protein the main interest of biologists is to know the secondary structure of a protein. How a spectroscopic method can help it?",  
+"answers": {
+            "a":"Response only for a particular secondary structure, for others structures remain silent.", 
+            "b":"Give signature spectra for each different secondary structure.", 
+            "c":"Spectroscoppic methods can not help.",
+	    "d":"can not say."
+           },
+"correctAnswer": "b" }
+
+]
