@@ -39,7 +39,7 @@
   width: 150px;
 }
 #start a {
-  text-decoration: none;
+  text-decoration: underline;
 }
 #n2 {
   margin-left: 30px;
