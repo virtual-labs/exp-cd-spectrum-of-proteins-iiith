@@ -1,17 +1,14 @@
-**Step1 :** The screen shows a CD spectrometer with a computer attached to it. There is a drop down menu named "Secondary Structure" and three control TABS on the right named "Measure CD", "Exit Simulation" and "N2 Purge".
+**Step 1 :** The screen shows three steps to Study the effect of Secondary Structure - Selecting Sample and Purge the N2. - Measurement of CD Spectra of the Selected Sample. - Guess the Structure of Sample using the spectra obtained.
+click on the 'Start' button to initiate the simulation.
 
-**Step2 :** You have to power on the CD spectrometer to activate the simulator. The power switch is at the left of the spectrometer.
+**Step 2 :** There are three buttons "N2 Purge", "Measure CD" and "Secondary Structure".
 
-**Step3 :** Now you have to select one sample from the drop down menu named "Secondary Structure".
+**Step 3 :** Please select one sample from the drop down menu named "Secondary Structure".
 
-**Step4 :** Now you may Purge the N2 and see what happens in the screen or directly "Measure CD".
+**Step 4 :** One may proceed with "N2 Purge" and see what happens in the screen or directly "Measure CD".
 
-**Step5 :** If you select "Measure CD" then sample will be taken in special container. Now you have to open the spectrometer's lid . The sample will be automatically kept inside. Then you have close the lid. Opening and closing of the lid is done by clicking a white oval button below the lid.
+**Step 5 :** If "Measure CD" is selected, then there are a list of instructions to be followed to perform the task. The sample will be taken in special container. The spectrometer's lid needs to opened by click. The sample will be automatically kept inside. Opening and closing of the lid is done by clicking a white oval button below the lid.
 
-**Step6 :** You will now have the spectra of your sample. Click continue to "identify the secondary structural element" from the spectrum.
+**Step 6 :** The spectra of your sample is ready. Click continue to "Identify the secondary structural element" from the spectrum.
 
-**Step7 :** If it does not match with any existing spectra then you will be told that some thing has gone wrong. And you will be suggested to do the experiment again. While redoing the experiment you may try N2 purging to observe whether that makes any difference in your experimental result.
-
-**Step8 :** Once you receive a curve which matches with one of the spectrum of pure secondary structure of protein then you will be asked guess that structure.
-
-**Step9 :** Once you submit your result you will come to know whether your guess is right or wrong.
+**Step 7 :** If the answer does not match with any existing spectra then appropriate result will be shown in screen. Retaking the quiz or Re-doing the experiment is possible at this stage.
